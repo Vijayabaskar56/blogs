@@ -35,7 +35,7 @@ The DNS process involves several key components working together to resolve doma
 ### **Local DNS Server**
    - Often operated by ISPs, these servers cache DNS records to speed up the resolution process for frequently accessed domains.
 
-![DNS Resolvers Flow](/assets/dns-flow.jpg)
+![DNS Resolvers Flow](/dns-flow.jpg)
 
 ## Types of DNS Records
 
