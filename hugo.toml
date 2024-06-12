@@ -1,4 +1,4 @@
-baseURL = 'Vijayabaskar.xyz'
+baseURL = 'https://vijayabaskar.xyz/'
 languageCode = 'en-us'
 title = 'Vijayabaskar@[society]'
 theme = 'hugo-theme-console'
