@@ -1,7 +1,7 @@
 +++
 title = 'OWASP API Security'
 date = 2024-06-12T15:30:36+05:30
-draft = true
+draft = false
 +++
 
 I am preparing for an interview and noticed that the job description mentions knowledge of OWASP is required. Since I didn't know what it was, I did what any reasonable person would do—I googled it. Googling only gives you a surface level of information, and for me, that’s never enough. I try to reach at least a 5/10 level of understanding when I learn any subject, and that’s when I feel satisfied. So, I dug deeper and found this free course about [OWASP API Security by APISEC University](https://university.apisec.ai/products/owasp-api-security-top-10-and-beyond). I enrolled and learned more about it, and here is a blog about the things that I learned.
