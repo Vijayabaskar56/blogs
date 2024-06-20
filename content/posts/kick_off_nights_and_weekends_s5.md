@@ -1,5 +1,5 @@
 +++
-title = 'Kick_off_nights_and_weekends_s5'
+title = 'Kick off nights and weekends S5'
 date = 2024-06-19T23:41:57+05:30
 draft = false
 tags = ['n&w_s5']
