@@ -5,30 +5,29 @@ draft = false
 tags = ['n&w_s5']
 +++
 
-I have participating in the Nights and Weekends Season 5 of BuildSpace, so this blog is about, 
 
-what heck is that ?
-why am I excited about ?
+I am participating in the Nights and Weekends Season 5 of BuildSpace, so this blog is about:
 
-what is the plan and other stuffs.
+- What the heck is that?
+- Why am I excited about it?
+- What is the plan and other stuff.
 
-[BuildSpace](https://buildspace.so) is a home for ppl bringing their wildest ideas to life and every year they conduce a event named Weekends and Nights. The general Idea behind the event is that anybody can join with a idea of their own and gave life to those ideas, over the six week period.
+[BuildSpace](https://buildspace.so) is a home for people bringing their wildest ideas to life, and every year they conduct an event named Nights and Weekends. The general idea behind the event is that anybody can join with an idea of their own and bring it to life over a six-week period.
 
-I heard about it previous year and so when I know about the this season, I joined randomly and I just completed my first lecture from farza the founder of buidschool himself.
+I heard about it last year, so when I knew about this season, I joined randomly and I just completed my first lecture from Farza, the founder of BuildSpace, himself.
 
-I belive it will be a challening and exciting ride and I don't wanna miss the ride so I hope in,
+I believe it will be a challenging and exciting ride, and I don't want to miss it, so I hopped in.
 
 ## The Idea
 
 ![my idea](/erevald.png)
 
-This is my idea for the nights and weekends, I am going to build a app with react-native based on this idea.
-I didn't know react-native , I am planning to learn react-native and build this app while in the process of making it
+This is my idea for Nights and Weekends. I am going to build an app with React Native based on this idea. I don't know React Native yet, but I am planning to learn it and build this app during the process.
 
-I wanna say lot about and explain lot about the idea, but the thing is , it better to make it happen than to explain it in 5 paragraphs.
+I want to say a lot about and explain a lot about the idea, but the thing is, it's better to make it happen than to explain it in 5 paragraphs.
 
 ## The Plan
 
-Around 70,000 application was received for this season of night and weekly, I just get to know that and I also know that from this only a 10 to 20 will make it to all the six week and I wanted to be among one of those people, so I am going to gave everything that I have on this one and the plan it make it to the end , that its as simple as its get, just make it to the end.
+Around 70,000 applications were received for this season of Nights and Weekends. I just got to know that, and I also know that from these, only 10 to 20 will make it through all six weeks. I want to be among those people, so I am going to give everything I have on this one. The plan is to make it to the end. That's as simple as it gets: just make it to the end.
 
-I am also planning to document this journey throught, twitter as well as this blog, so I am going to keep update my progress on this blog, along these six weeks, all the way.
+I am also planning to document this journey through Twitter as well as this blog, so I am going to keep updating my progress on this blog throughout these six weeks, all the way.
