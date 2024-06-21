@@ -2,7 +2,6 @@
 title = 'Day 2 of nights and weekends'
 date = 2024-06-21T00:19:07+05:30
 draft = false
-tags = ['n&w_s5']
 +++
 
 It's day two , and like I said yestarday I wanted to document my journey, so here I am,
