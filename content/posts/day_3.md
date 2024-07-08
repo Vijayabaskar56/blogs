@@ -1,7 +1,7 @@
 +++
 title = 'Day 3 of nights and weekends'
 date = 2024-06-21T22:23:48+05:30
-draft = false
+draft = true
 tags=['n&w_s5']
 type = "gallery"
 layout="list"
